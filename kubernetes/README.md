@@ -1,0 +1,2 @@
+- k8s-init-master.sh <master-ip> <k8s-version=1.19.0> <image-repo=registry.aliyuncs.com/google_containers> <service-cidr=10.1.0.0/16> <pod-cidr=10.244.0.0/16>
+- k8s-init-slave.sh <k8s-version=1.19.0>
